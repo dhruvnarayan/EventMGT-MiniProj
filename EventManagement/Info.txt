@@ -1,0 +1,4 @@
+Python Workshop - VIT University
+Mini-Project
+Topic: Event Management System
+Submitted by : Dhruv Narayan
